@@ -70,5 +70,11 @@
         "url": "https://slackin-gotanda-pm.herokuapp.com/",
         "description": "五反田を中心に活動するPerlの技術者コミュニティ",
         "tag": ["Perl", "Web"]
+    },
+    {
+        "name": "雑談Slack",
+        "url": "https://samezi-but.com/zdnj.html",
+        "description": "仕事中にサボタージュして雑談することに特化したSlack Teamです",
+        "tag": ["Tech", "Talk", "Sabotage"]
     }
 ]
