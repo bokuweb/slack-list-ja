@@ -148,5 +148,11 @@
         "url": "https://r-wakalang.herokuapp.com/",
         "description": "Rのわからないことを質問したり雑談したりするSlack",
         "tag": ["R"]
+    },
+    {
+        "name": "android-jp",
+        "url": "https://android-jp.herokuapp.com/",
+        "description": "Androidについて日本語で話すSlack",
+        "tag": ["Android", "Java", "Google"]
     }
 ]
