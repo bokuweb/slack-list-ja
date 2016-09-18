@@ -220,5 +220,11 @@
         "url": "http://dartlang-users-jp-invite.herokuapp.com/",
         "description": "日本のDartユーザーのためのSlackチーム",
         "tag": ["Dart","Web"]
+    },
+    {
+      "name": "Ruby on Rails JP",
+      "url": "https://ruby-on-rails-jp.slack.com",
+      "description": "日本のRuby on Railsユーザーのためのslackチーム",
+      "tag": ["Ruby on Rails","Web","Ruby"]      
     }
 ]
