@@ -232,5 +232,11 @@
         "url": "https://react-japan-invite.herokuapp.com/ ",
         "description": "React.jsユーザーのための日本語Slackチーム",
         "tag": ["React", "React.js", "JavaScript", "Web"]
+    },
+    {
+        "name": "Riot Japan",
+        "url": "https://riot-japan-slackin.herokuapp.com/",
+        "description": "Riot.jsについての意見を交換する日本語Slackチーム",
+        "tag": ["Riot", "Riot.js", "JavaScript", "Web"]
     }
 ]
