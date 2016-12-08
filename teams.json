@@ -238,5 +238,11 @@
         "url": "https://riot-japan-slackin.herokuapp.com/",
         "description": "Riot.jsについての意見を交換する日本語Slackチーム",
         "tag": ["Riot", "Riot.js", "JavaScript", "Web"]
+    },
+    {
+        "name": "GitLab-jp",
+        "url": "https://gitlab-jp.herokuapp.com/",
+        "description": "GitLabについての情報収集や、意見交換を日本語でするSlackチーム",
+        "tag": ["GitLab", "git"]
     }
 ]
