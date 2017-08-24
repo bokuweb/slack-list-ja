@@ -1,5 +1,11 @@
 [
     {
+        "name": "rdkit-users-jp",
+        "url": "http://rdkit-users.jp/",
+        "description": "rdkit-users-jp は RDKit の日本ユーザー会です。RDKit のユーザーであれば、どなたでも参加することが可能です。",
+        "tag": ["Work", "Tech"]
+    },
+    {
         "name": "リモートワーカー",
         "url": "https://remote-workers-jp.herokuapp.com/",
         "description": "リモートワーカーが知見交換とか雑談するための Slack Team ",
