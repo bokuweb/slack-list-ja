@@ -256,5 +256,11 @@
         "url": "https://slack-emacs-jp.herokuapp.com/",
         "description": "日本の Emacs ユーザーのためのハブサイト",
         "tag": ["Emacs", "Editor", "Emacs Lisp"]
+    },
+    {
+        "name": "osaka-vim",
+        "url": "https://osaka-vim-slackin.herokuapp.com/",
+        "description": "Osaka.vimコミュニティのSlackチーム",
+        "tag": ["Vim", "Editor"]
     }
 ]
