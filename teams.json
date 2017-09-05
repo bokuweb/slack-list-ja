@@ -274,5 +274,11 @@
         "url": "https://haskell.jp/blog/posts/2017/01-first.html",
         "description": "日本HaskellユーザーグループのためのSlackチーム",
         "tag": ["Haskell"]
+    },
+    {
+        "name": "GCPUG",
+	"url": "https://docs.google.com/forms/d/e/1FAIpQLScYxAGwuosFFNvH-5yOj-_p-pAKdqZpmM2cgKh9Q8Zu6531Bw/viewform",
+        "description": "Google Cloud Platform User GroupのSlackチーム",
+        "tag": ["google", "GCP"]
     }
 ]
