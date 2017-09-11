@@ -280,5 +280,11 @@
 	"url": "https://docs.google.com/forms/d/e/1FAIpQLScYxAGwuosFFNvH-5yOj-_p-pAKdqZpmM2cgKh9Q8Zu6531Bw/viewform",
         "description": "Google Cloud Platform User GroupのSlackチーム",
         "tag": ["google", "GCP"]
+    },
+    {
+        "name": "Manabi",
+	"url": "http://qiita.com/takapi_0077/items/8bbfe77a39780943ef15",
+        "description": "1日で1番グッときた学びをシェアする協力型自己啓発公開Slackチーム",
+        "tag": ["学び", "自己啓発"]
     }
 ]
