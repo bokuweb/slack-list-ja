@@ -264,12 +264,6 @@
         "tag": ["Emacs", "Editor", "Emacs Lisp"]
     },
     {
-        "name": "osaka-vim",
-        "url": "https://osaka-vim-slackin.herokuapp.com/",
-        "description": "Osaka.vimコミュニティのSlackチーム",
-        "tag": ["Vim", "Editor"]
-    },
-    {
         "name": "Haskell-jp",
         "url": "https://haskell.jp/blog/posts/2017/01-first.html",
         "description": "日本HaskellユーザーグループのためのSlackチーム",
