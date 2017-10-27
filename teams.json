@@ -280,5 +280,11 @@
 	"url": "http://qiita.com/takapi_0077/items/8bbfe77a39780943ef15",
         "description": "1日で1番グッときた学びをシェアする協力型自己啓発公開Slackチーム",
         "tag": ["学び", "自己啓発"]
+    },
+    {
+        "name": "vim-jp",
+        "url": "http://vim-jp.org/docs/chat.html",
+        "description": "Vimのユーザーと開発者を結ぶコミュニティサイト",
+        "tag": ["Vim", "Editor"]
     }
 ]
