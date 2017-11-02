@@ -286,5 +286,11 @@
         "url": "http://vim-jp.org/docs/chat.html",
         "description": "Vimのユーザーと開発者を結ぶコミュニティサイト",
         "tag": ["Vim", "Editor"]
+    },
+    {
+        "name": "scala-jp",
+        "url": "http://scala-jp-slackin.herokuapp.com",
+        "description": "プログラミング原語 Scala の日本語コミュニティ(Gitterのコミュニティとは関係ありません)",
+        "tag": ["Scala"]
     }
 ]
