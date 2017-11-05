@@ -290,7 +290,7 @@
     {
         "name": "scala-jp",
         "url": "http://scala-jp-slackin.herokuapp.com",
-        "description": "プログラミング原語 Scala の日本語コミュニティ(Gitterのコミュニティとは関係ありません)",
+        "description": "プログラミング言語 Scala の日本語コミュニティ(Gitterのコミュニティとは関係ありません)",
         "tag": ["Scala"]
     }
 ]
