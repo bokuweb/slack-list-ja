@@ -292,5 +292,11 @@
         "url": "http://scala-jp-slackin.herokuapp.com",
         "description": "プログラミング言語 Scala の日本語コミュニティ(Gitterのコミュニティとは関係ありません)",
         "tag": ["Scala"]
+    },
+    {
+        "name": "mobilechainer",
+        "url": "https://slackin-ikbccjazcl.now.sh/",
+        "description": "ブロックチェーンに取り組むモバイルアプリエンジニアコミュニティ",
+        "tag": ["blockchain", "bitcoin", "ethereum", "仮想通貨", "暗号通貨", "スマートフォン", "iOS", "Android", "スマートコントラクト", "Smart Contract", "DApps"]
     }
 ]
