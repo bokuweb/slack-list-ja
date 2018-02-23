@@ -298,5 +298,11 @@
         "url": "https://slackin-ikbccjazcl.now.sh/",
         "description": "ブロックチェーンに取り組むモバイルアプリエンジニアコミュニティ",
         "tag": ["blockchain", "bitcoin", "ethereum", "仮想通貨", "暗号通貨", "スマートフォン", "iOS", "Android", "スマートコントラクト", "Smart Contract", "DApps"]
+    },
+    {
+        "name": "TRAVE Tech Japan",
+        "url": "https://travel-tech-japan.herokuapp.com/",
+        "description": "TRAVEL Tech（旅行・観光領域の各種サービス）に取り組む情報・知見交換等するカジュアルなコミュニティ",
+        "tag": ["TRAVEL", "TRAVEL Tech", "IoT", "旅行", "観光", "宿泊", "ホテル", "インバウンド", "OTA", "旅行代理店", "情報交換", "採用", "広報", "UX", "UI", "民泊", "体験"]
     }
 ]
