@@ -304,5 +304,11 @@
         "url": "https://travel-tech-japan.herokuapp.com/",
         "description": "TRAVEL Tech（旅行・観光領域の各種サービス）に取り組む情報・知見交換等するカジュアルなコミュニティ",
         "tag": ["TRAVEL", "TRAVEL Tech", "IoT", "旅行", "観光", "宿泊", "ホテル", "インバウンド", "OTA", "旅行代理店", "情報交換", "採用", "広報", "UX", "UI", "民泊", "体験"]
+    },
+    {
+        "name": "418 I'm a tea pot.",
+        "url": "https://now-examples-slackin-xlktxhixsi.now.sh/",
+        "description": "Webエンジニアのための雑談コミュニティ。技術の井戸端会議、相談をゆるくやっていくコミュニティ",
+        "tag": ["Web", "Tech", "Talk", "雑談"]
     }
 ]
