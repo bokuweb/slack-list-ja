@@ -316,5 +316,11 @@
         "url": "https://slack.rancher.jp",
         "description": "コンテナ管理ツールのRancherやコンテナ関連技術について語らうSlackチーム",
         "tag": ["Tech", "Container"]
+    },
+    {
+        "name": "Mesos User Group Tokyo",
+        "url": "https://mesostokyo.herokuapp.com/",
+        "description": "Apache Mesos及びDC/OSなどの周辺技術について語るコミュニティ",
+        "tag": ["Tech", "Mesos"]
     }
 ]
