@@ -310,5 +310,11 @@
         "url": "https://now-examples-slackin-xlktxhixsi.now.sh/",
         "description": "Webエンジニアのための雑談コミュニティ。技術の井戸端会議、相談をゆるくやっていくコミュニティ",
         "tag": ["Web", "Tech", "Talk", "雑談"]
+    },
+    {
+        "name": "Rancher JP",
+        "url": "https://slack.rancher.jp",
+        "description": "コンテナ管理ツールのRancherやコンテナ関連技術について語らうSlackチーム",
+        "tag": ["Tech", "Container"]
     }
 ]
