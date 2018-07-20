@@ -322,5 +322,11 @@
         "url": "https://mesostokyo.herokuapp.com/",
         "description": "Apache Mesos及びDC/OSなどの周辺技術について語るコミュニティ",
         "tag": ["Tech", "Mesos"]
+    },
+    {
+        "name": "Elixir of Japan",
+        "url": "http://elixir-jp.herokuapp.com",
+        "description": "Elixir 日本コミュニティ",
+        "tag": ["Tech", "Elixir", "ElixirLang"]
     }
 ]
