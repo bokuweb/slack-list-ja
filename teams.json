@@ -334,5 +334,11 @@
         "url": "https://tokyo-stata.herokuapp.com",
         "description": "Stataに関する疑問やTipsの情報交換を自由に行う場所です",
         "tag": ["STATA", "Statistics"]
+    },
+    {
+        "name": "Lara Cafe",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfObiL5H3qA2oxWUA1w6NdkiR_INmQ9_0_IUFAvqdAwyZzTXA/viewform",
+        "description": "Laravelのもくもく会とかLT会とか色々やっているコミュニティです。:D",
+        "tag": ["PHP", "Laravel", "もくもく会", "勉強会"]
     }
 ]
