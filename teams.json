@@ -340,5 +340,11 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfObiL5H3qA2oxWUA1w6NdkiR_INmQ9_0_IUFAvqdAwyZzTXA/viewform",
         "description": "Laravelのもくもく会とかLT会とか色々やっているコミュニティです。:D",
         "tag": ["PHP", "Laravel", "もくもく会", "勉強会"]
+    },
+    {
+        "name": "Ruby-community-jp",
+        "url": "https://join.slack.com/t/ruby-share/shared_invite/enQtNDgzNTA4MzY4OTE5LTMyMTg0YmIyYWY3ODY4YzdkMThhNjBiYjY4ZWU2NWY2NjhiZTJlMjRhMDRmYzQyNzc0YmRhNTg4NWQ2YWQwNDQ",
+        "description": "Rubyを勉強したい人のためのコミュニティ",
+        "tag": ["Ruby", "Rails", "Web", "勉強会"]
     }
 ]
