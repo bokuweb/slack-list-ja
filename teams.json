@@ -340,5 +340,11 @@
         "url": "https://join.slack.com/t/ruby-share/shared_invite/enQtNDgzNTA4MzY4OTE5LTMyMTg0YmIyYWY3ODY4YzdkMThhNjBiYjY4ZWU2NWY2NjhiZTJlMjRhMDRmYzQyNzc0YmRhNTg4NWQ2YWQwNDQ",
         "description": "Rubyを勉強したい人のためのコミュニティ",
         "tag": ["Ruby", "Rails", "Web", "勉強会"]
+    },
+    {
+        "name": "ソーシャルslack",
+        "url": "https://sites.google.com/view/socialslackjp",
+        "description": "NPOやNGOなど、ソーシャルセクターで働く人のための情報収集、交流のslackです",
+        "tag": ["NPO", "NGO"]
     }
 ]
