@@ -318,12 +318,6 @@
         "tag": ["Tech", "Mesos"]
     },
     {
-        "name": "Slack of Japan",
-        "url": "https://elixir-jp.herokuapp.com/",
-        "description": "Elixir 日本コミュニティ！",
-        "tag": ["Tech", "Elixir", "ElixirLang"]
-    },
-    {
         "name": "Tokyo.Stata",
         "url": "https://tokyo-stata.herokuapp.com",
         "description": "Stataに関する疑問やTipsの情報交換を自由に行う場所です",
