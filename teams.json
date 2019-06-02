@@ -340,5 +340,11 @@
         "url": "https://sites.google.com/view/socialslackjp",
         "description": "NPOやNGOなど、ソーシャルセクターで働く人のための情報収集、交流のslackです",
         "tag": ["NPO", "NGO"]
+    },
+    {
+        "name": "kansai-lisp-users",
+        "url": "https://kansai-lisp-users.herokuapp.com/",
+        "description": "大阪京都を中心に活動するLisp系プログラミング言語のコミュニティ関西Lispユーザ会のslackチームです。",
+        "tag": ["lisp"]
     }
 ]
