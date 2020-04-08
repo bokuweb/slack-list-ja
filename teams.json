@@ -358,5 +358,11 @@
         "url": "https://chottonews.slack.com/messages/C2005MHRV/details/",
         "description": "メールマガジン「ちょっとニュース」から派生したSlackサイト。楽しく雑談しましょう。",
         "tag": ["news", "NPO", "雑談"]
+    },
+    {
+        "name": "プログラミング言語処理系が好きな人の集まり",
+        "url": "https://prog-lang-sys-ja-slack.github.io/wiki/",
+        "description": "プログラミング言語処理系に関する話題ならなんでもありなSlackです",
+        "tag": ["言語処理系"]
     }
 ]
