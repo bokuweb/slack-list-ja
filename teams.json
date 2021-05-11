@@ -370,5 +370,11 @@
         "url": "https://join.slack.com/t/flutter-osaka/shared_invite/enQtODg3NTMxNTg4Njg5LTBhY2ZiMWFhOTI3NjZmN2IwZTc1MWY1Yzc3ODQ4NGRhYzQyNWM0NTg2NzY3OWEwNjk2MmMxMzQ4ZjFmNTZhNTI",
         "description": "Flutterを始めこのベースとなりうるiOS/Androidを使ったソフトウェアについて情報交換、交流するためのコミュニティです",
         "tag": ["Flutter", "Application", "Mobile Application", "iOS", "Android", "Flutter for web", "勉強会", "ミートアップ", "ハンズオン", "もくもく会"]
+    },
+    {
+        "name": "NervesJP",
+        "url": "https://nerves-jp.connpass.com/",
+        "description": "関数型言語ElixirのIoTフレームワークであるNervesについてのコミュニティです．Elixir/Nervesに限らず組込み／IoTな話題も！",
+        "tag": ["Nerves", "Elixir", "IoT", "組込み", "関数型言語"]
     }
 ]
