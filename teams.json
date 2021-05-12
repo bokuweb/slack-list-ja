@@ -376,5 +376,11 @@
         "url": "https://nerves-jp.connpass.com/",
         "description": "関数型言語ElixirのIoTフレームワークであるNervesについてのコミュニティです．Elixir/Nervesに限らず組込み／IoTな話題も！",
         "tag": ["Nerves", "Elixir", "IoT", "組込み", "関数型言語"]
+    },
+    {
+        "name": "rosjp (ROS Japan UG)",
+        "url": "https://goo.gl/forms/bTA1P7oQo24lzTlX2",
+        "description": "ロボットの開発プラットフォームであるROS（Robot Operating System）に関するコミュニティです．",
+        "tag": ["ROS", "Robotics", "AI", "C++", "Python"]
     }
 ]
