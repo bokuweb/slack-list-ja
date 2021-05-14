@@ -382,5 +382,12 @@
         "url": "https://goo.gl/forms/bTA1P7oQo24lzTlX2",
         "description": "ロボットの開発プラットフォームであるROS（Robot Operating System）に関するコミュニティです．",
         "tag": ["ROS", "Robotics", "AI", "C++", "Python"]
+    },
+    {
+        "name": "Code for Free",
+        "url": "https://maifuri.github.io/code-for-free/",
+        "description": "フリーランスエンジニアが情報交換、交流するためのコミュニティです",
+        "tag": ["フリーランス", "業務委託", "案件情報", "Flutter", "Android", "iOS", "Python", "機械学習","データ分析","IoT", "React", "Vue"]
+
     }
 ]
